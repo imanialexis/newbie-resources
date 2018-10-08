@@ -24,7 +24,7 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 
 
 ## Podcasts
-* Ruby Rogues
+* [Ruby Rogues](https://itunes.apple.com/us/podcast/ruby-rogues/id705335155?mt=2)
 * Full Stack Radio
 * Developer Tea
 * Shop Talk Show
