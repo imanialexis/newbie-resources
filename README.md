@@ -21,3 +21,45 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 | [Khan Academy](https://www.khanacademy.org/)| Khan Academy is a non-profit educational organization created in 2005 by Salman Khan with the goal of creating a set of online tools that help educate students. The organization produces short lessons in the form of YouTube videos. Its website also includes supplementary practice exercises and materials for educators      |    x |   -| -|
 | [Free Code Camp](https://www.freecodecamp.org/) | are neat      |    x |  -| - |
 | [Lynda](https://www.lynda.com/) | Learn software, creative, and business skills to achieve your personal and professional goals. Join today to get access to thousands of courses      |    -|   x|- |
+
+
+## Podcasts
+* Ruby Rogues
+* Full Stack Radio
+* Developer Tea
+* Shop Talk Show
+* Code Newbie
+* Software Engineering Daily
+* CodePen Radio
+* Hanselminutes
+* Programming Throwdown
+* Geek Speak
+* The freeCodeCamp Podcast
+* Javascript Jabber
+* Syntax.fm
+* Talk Python To Me
+* The Changelog
+* Software Engineering Radio
+* Front End Happy Hour
+* Coding Blocks
+* Learn To Code With Me
+
+
+## YouTube
+
+* CS Dojo
+* DevTips
+* LevelUpTuts
+* Google Developers
+* MIT Open Courseware
+* Mozilla Hacks
+* Derek Banas
+* Coding Tutorials 360
+* freeCodeCamp
+* Simple Programmer (Bulldog Mindset)
+* Coding Train
+* Fun Fun Function
+* LearnCode.Academy
+* Simplilearn
+* Engineered Truth
+* Computerphile
