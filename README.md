@@ -33,16 +33,16 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 * [CodePen Radio](https://itunes.apple.com/us/podcast/codepen-radio/id824437159?mt=2)
 * [Hanselminutes](https://itunes.apple.com/us/podcast/hanselminutes-fresh-talk-and-tech-for-developers/id117488860?mt=2)
 * [Programming Throwdown](https://itunes.apple.com/us/podcast/programming-throwdown/id427166321?mt=2)
-* Geek Speak
-* The freeCodeCamp Podcast
-* Javascript Jabber
-* Syntax.fm
-* Talk Python To Me
-* The Changelog
-* Software Engineering Radio
-* Front End Happy Hour
-* Coding Blocks
-* Learn To Code With Me
+* [Geek Speak](https://itunes.apple.com/us/podcast/the-official-geek-speak-radio-podcast/id189733454?mt=2)
+* [The freeCodeCamp Podcast](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749?mt=2)
+* [Javascript Jabber](https://itunes.apple.com/us/podcast/javascript-jabber/id1237401284?mt=2)
+* [Syntax.fm](https://itunes.apple.com/us/podcast/syntax-tasty-web-development-treats/id1253186678?mt=2)
+* [Talk Python To Me](https://itunes.apple.com/us/podcast/talk-python-to-me-python-conversations-for-passionate/id979020229?mt=2)
+* [The Changelog](https://itunes.apple.com/us/podcast/the-changelog/id341623264?mt=2)
+* [Software Engineering Radio](https://itunes.apple.com/us/podcast/software-engineering-radio-podcast-for-professional/id120906714?mt=2)
+* [Front End Happy Hour](https://itunes.apple.com/us/podcast/front-end-happy-hour/id1089047924?mt=2)
+* [Coding Blocks](https://itunes.apple.com/us/podcast/coding-blocks/id769189585?mt=2)
+* [Learn To Code With Me](https://itunes.apple.com/us/podcast/learn-to-code-with-me/id1106620664?mt=2)
 
 
 ## YouTube
