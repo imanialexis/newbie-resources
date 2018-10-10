@@ -24,6 +24,7 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 
 
 ## Podcasts
+* [Breaking into Startups](https://itunes.apple.com/us/podcast/breaking-into-startups/id1180897172?mt=2)
 * [Ruby Rogues](https://itunes.apple.com/us/podcast/ruby-rogues/id705335155?mt=2)
 * [Full Stack Radio](https://itunes.apple.com/us/podcast/full-stack-radio/id931714873?mt=2)
 * [Developer Tea](https://itunes.apple.com/us/podcast/developer-tea/id955596067?mt=2)
