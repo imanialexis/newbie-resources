@@ -25,11 +25,11 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 
 ## Podcasts
 * [Ruby Rogues](https://itunes.apple.com/us/podcast/ruby-rogues/id705335155?mt=2)
-* Full Stack Radio
-* Developer Tea
-* Shop Talk Show
-* Code Newbie
-* Software Engineering Daily
+* [Full Stack Radio](https://itunes.apple.com/us/podcast/full-stack-radio/id931714873?mt=2)
+* [Developer Tea](https://itunes.apple.com/us/podcast/developer-tea/id955596067?mt=2)
+* [Shop Talk Show](https://itunes.apple.com/us/podcast/shoptalk/id493890455?mt=2)
+* [Code Newbie](https://itunes.apple.com/us/podcast/codenewbie/id919219256?mt=2)
+* [Software Engineering Daily](https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853?mt=2)
 * CodePen Radio
 * Hanselminutes
 * Programming Throwdown
