@@ -67,7 +67,7 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 
 ## Newsletters
-* [Alley Watch](https://www.alleywatch.com/)
+* [Alley Watch](http://email.alleywatch.com/)
 * [Uncubed](https://uncubed.com/learn)
 * [Launch Ticker](https://www.launchticker.com/)
 * [EdSurge](https://www.edsurge.com/)
