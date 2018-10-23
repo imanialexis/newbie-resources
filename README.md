@@ -55,8 +55,8 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 * [MIT Open Courseware](https://www.youtube.com/user/MIT)
 * [Mozilla Hacks](https://www.youtube.com/channel/UCijjo5gfAscWgNCKFHWm1EA)
 * [Derek Banas](https://www.youtube.com/user/derekbanas)
-* Coding Tutorials 360
-* freeCodeCamp
+* [Coding Tutorials 360](https://www.youtube.com/channel/UC5Wi_NYysX-LfcqT3Hq9Faw)
+* [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * Simple Programmer (Bulldog Mindset)
 * Coding Train
 * Fun Fun Function
