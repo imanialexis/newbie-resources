@@ -48,10 +48,10 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 
 ## YouTube
 
-* CS Dojo
-* DevTips
-* LevelUpTuts
-* Google Developers
+* [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
+* [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+* [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
+* [Google Developers](https://www.youtube.com/GoogleDevelopers)
 * MIT Open Courseware
 * Mozilla Hacks
 * Derek Banas
