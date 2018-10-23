@@ -66,4 +66,25 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 * [Engineered Truth](https://www.youtube.com/user/EngineeredTruth)
 * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 
-## Newsletters,slack channels and more coming soon ...
+## Newsletters,
+* (https://www.alleywatch.com/)
+* (https://uncubed.com/learn)
+* (https://www.launchticker.com/)
+* (https://www.edsurge.com/)
+* (https://inside.com/venture-capital)
+* (https://www.in3dc.com/)
+* (garysguide.com)
+* (https://www.blackwomentalktech.com/)
+* (builtinnyc.com)
+* (createcultivate.com)
+* (https://blog.github.com/)
+* (hiretechladies.com)
+* (tech2025.com)
+* (https://blogspot.us1.list-manage.com/subscribe?u=2aa4d42d498f5b86e450f88c8&id=5dd2e495c1)
+
+
+
+
+
+
+## Slack channels and more coming soon ...
