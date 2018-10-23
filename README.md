@@ -61,6 +61,6 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 * [Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 * [LearnCode.Academy](https://www.youtube.com/user/learncodeacademy/videos)
-* Simplilearn
-* Engineered Truth
-* Computerphile
+* [Simplilearn](https://www.youtube.com/user/Simplilearn)
+* [Engineered Truth](https://www.youtube.com/user/EngineeredTruth)
+* [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
