@@ -64,3 +64,5 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 * [Simplilearn](https://www.youtube.com/user/Simplilearn)
 * [Engineered Truth](https://www.youtube.com/user/EngineeredTruth)
 * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+
+## Newsletters,slack channels and more coming soon ...
