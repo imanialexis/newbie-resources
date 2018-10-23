@@ -52,9 +52,9 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
 * [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
 * [Google Developers](https://www.youtube.com/GoogleDevelopers)
-* MIT Open Courseware
-* Mozilla Hacks
-* Derek Banas
+* [MIT Open Courseware](https://www.youtube.com/user/MIT)
+* [Mozilla Hacks](https://www.youtube.com/channel/UCijjo5gfAscWgNCKFHWm1EA)
+* [Derek Banas](https://www.youtube.com/user/derekbanas)
 * Coding Tutorials 360
 * freeCodeCamp
 * Simple Programmer (Bulldog Mindset)
