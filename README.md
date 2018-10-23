@@ -57,10 +57,10 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 * [Derek Banas](https://www.youtube.com/user/derekbanas)
 * [Coding Tutorials 360](https://www.youtube.com/channel/UC5Wi_NYysX-LfcqT3Hq9Faw)
 * [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-* Simple Programmer (Bulldog Mindset)
-* Coding Train
-* Fun Fun Function
-* LearnCode.Academy
+* [Simple Programmer (Bulldog Mindset)](https://www.youtube.com/channel/UCFxdcuY-S6yjZGq_2cjilHg)
+* [Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [LearnCode.Academy](https://www.youtube.com/user/learncodeacademy/videos)
 * Simplilearn
 * Engineered Truth
 * Computerphile
