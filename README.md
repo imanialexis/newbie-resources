@@ -38,6 +38,7 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 * [Programming Throwdown](https://itunes.apple.com/us/podcast/programming-throwdown/id427166321?mt=2)
 * [Geek Speak](https://itunes.apple.com/us/podcast/the-official-geek-speak-radio-podcast/id189733454?mt=2)
 * [The freeCodeCamp Podcast](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749?mt=2)
+* [The Black Techies Podcast](https://itunes.apple.com/us/podcast/the-black-techies-podcast/id1207725519?mt=2)
 * [Javascript Jabber](https://itunes.apple.com/us/podcast/javascript-jabber/id1237401284?mt=2)
 * [Syntax.fm](https://itunes.apple.com/us/podcast/syntax-tasty-web-development-treats/id1253186678?mt=2)
 * [Talk Python To Me](https://itunes.apple.com/us/podcast/talk-python-to-me-python-conversations-for-passionate/id979020229?mt=2)
