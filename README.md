@@ -22,6 +22,8 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 | [Free Code Camp](https://www.freecodecamp.org/) |Learn to code with free online courses, programming projects, and interview preparation for developer jobs.     |    x |  -| - |
 | [Lynda](https://www.lynda.com/) | Learn software, creative, and business skills to achieve your personal and professional goals. Join today to get access to thousands of courses      |    -|   x|- |
 | [RailsBridgeNYC](http://installfest.railsbridge.org/workshop/resources) | RailsBridge is a weekend workshop geared towards introducing women to Ruby on Rails in a safe and welcominG environment     |    x |  -| - |
+| [Git Immersion](gitimmersion.com/) | A guided tour that walks through the fundamentals of Git    |    x |  -| - |
+| [Ruby Monk](https://rubymonk.com/) | Free, interactive tutorials to help you discover Ruby idioms, in your browser! |    x |  -| - |
 
 
 ## Podcasts
