@@ -24,6 +24,7 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 | [RailsBridgeNYC](http://installfest.railsbridge.org/workshop/resources) | RailsBridge is a weekend workshop geared towards introducing women to Ruby on Rails in a safe and welcominG environment     |    x |  -| - |
 | [Git Immersion](gitimmersion.com/) | A guided tour that walks through the fundamentals of Git    |    x |  -| - |
 | [Ruby Monk](https://rubymonk.com/) | Free, interactive tutorials to help you discover Ruby idioms, in your browser! |    x |  -| - |
+| [The Odin Project](https://www.theodinproject.com/) | The Odin Project empowers aspiring web developers to learn together. |    x |  -| - |
 
 
 ## Podcasts
