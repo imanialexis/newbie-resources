@@ -19,8 +19,9 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 |[Front End Masters](https://frontendmasters.com/) | Advance your skills with in-depth, modern JavaScript and front-end engineering courses.      |    - |   x | -|
 | [Udemy](https://www.udemy.com/) | Udemy is an online learning and teaching marketplace with over 80000 courses and 24 million students.       |    - |   - | x |
 | [Khan Academy](https://www.khanacademy.org/)| Khan Academy is a non-profit educational organization created in 2005 by Salman Khan with the goal of creating a set of online tools that help educate students. The organization produces short lessons in the form of YouTube videos. Its website also includes supplementary practice exercises and materials for educators      |    x |   -| -|
-| [Free Code Camp](https://www.freecodecamp.org/) | are neat      |    x |  -| - |
+| [Free Code Camp](https://www.freecodecamp.org/) |Learn to code with free online courses, programming projects, and interview preparation for developer jobs.     |    x |  -| - |
 | [Lynda](https://www.lynda.com/) | Learn software, creative, and business skills to achieve your personal and professional goals. Join today to get access to thousands of courses      |    -|   x|- |
+| [RailsBridgeNYC](http://installfest.railsbridge.org/workshop/resources) | RailsBridge is a weekend workshop geared towards introducing women to Ruby on Rails in a safe and welcominG environment     |    x |  -| - |
 
 
 ## Podcasts
