@@ -35,7 +35,7 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 * [Shop Talk Show](https://itunes.apple.com/us/podcast/shoptalk/id493890455?mt=2)
 * [Code Newbie](https://itunes.apple.com/us/podcast/codenewbie/id919219256?mt=2)
 * [Techish](https://itunes.apple.com/us/podcast/techish/id1350479996?mt=2)
-* [Indie Hackers](itms://itunes.apple.com/us/podcast/indie-hackers-podcast-how/id1206165808)
+* [Indie Hackers](https://itunes.apple.com/us/podcast/the-indie-hackers-podcast/id1206165808?mt=2)
 * [Software Engineering Daily](https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853?mt=2)
 * [CodePen Radio](https://itunes.apple.com/us/podcast/codepen-radio/id824437159?mt=2)
 * [Hanselminutes](https://itunes.apple.com/us/podcast/hanselminutes-fresh-talk-and-tech-for-developers/id117488860?mt=2)
