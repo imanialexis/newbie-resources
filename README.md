@@ -87,6 +87,7 @@ A working list of helpful resources for tech, including podcasts, youtube channe
 * [Hire Tech Ladies](hiretechladies.com)
 * [Tech Ladies](tech2025.com)
 * [Blogspot](https://blogspot.us1.list-manage.com/subscribe?u=2aa4d42d498f5b86e450f88c8&id=5dd2e495c1)
+* [Juniors in Tech](https://juniorsintech.com/)
 
 
 
